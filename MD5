@@ -1,0 +1,14 @@
+6e4652f18b771a7bd801c7ad8842fb68 *DESCRIPTION
+d41d8cd98f00b204e9800998ecf8427e *NAMESPACE
+3f0417722a423fc377d5a8bb12bbf9c4 *R/country_colors.R
+457ebff1b73ee10e5e493f4a51c8598e *R/gapminder.R
+1e087721d4f3620ed91d01f53d12436d *README.md
+cece1a375ea48ea63b59ac96c71c4bba *data/continent_colors.rdata
+3608fa1933ddb5c917fb60a68483ff8b *data/country_colors.rdata
+4d93babb44e0dc8fdd7ddb835b59ee55 *data/gapminder.rdata
+e86b40bb9b5895cc264b5e2a8fa0c7d9 *inst/gapminder-unfiltered.tsv
+f374d4d46f4db8f12fe3804f713de769 *inst/gapminder.tsv
+7913da053f34f3b52b95cf7a4b880ec5 *man/country_colors.Rd
+d4a572f88fd7b018ef9e75da3730e9e8 *man/gapminder.Rd
+227fffbe8233b8793582080f70aef392 *tests/testthat.R
+bc1db29f82e4ff99e25d8c66ea2852ea *tests/testthat/test-gapminder.R
