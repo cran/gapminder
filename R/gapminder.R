@@ -10,7 +10,7 @@
 #'   \item{year}{ranges from 1952 to 2007 in increments of 5 years}
 #'   \item{lifeExp}{life expectancy at birth, in years}
 #'   \item{pop}{population}
-#'   \item{gdpPercap}{GDP per capita}
+#'   \item{gdpPercap}{GDP per capita (US$, inflation-adjusted)}
 #'   }
 #'   
 #' The supplemental data frame \code{\link{gapminder_unfiltered}} was not
@@ -18,6 +18,7 @@
 #' 
 #' @source \url{http://www.gapminder.org/data/}
 #' @seealso \code{\link{country_colors}} for a nice color scheme for the countries
+#' @importFrom tibble tibble
 #' @examples
 #' str(gapminder)
 #' head(gapminder)
